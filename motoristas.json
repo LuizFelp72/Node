@@ -1,0 +1,14 @@
+[
+ {
+ "cnh": "M1234567",
+ "nome": "João Silva",
+ "status": "livre",
+ "veiculoAtual": null
+ },
+ {
+ "cnh": "M7654321",
+ "nome": "Maria Souza",
+ "status": "livre",
+ "veiculoAtual": null
+ }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "placa": "ABC1A23",
+    "modelo": "Caminhão Toco",
+    "capacidadeKg": 15000,
+    "disponivel": true,
+    "quilometragem": 150200
+  },
+  {
+    "placa": "XYZ9B87",
+    "modelo": "Van Sprinter",
+    "capacidadeKg": 2500,
+    "disponivel": true,
+    "quilometragem": 50800
+  }
+]
